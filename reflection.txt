@@ -1,0 +1,22 @@
+Reflection on Java Quiz
+
+1. Challenges Faced and Solutions:
+- Challenge: Understanding nested package structures and proper import statements between packages.
+  Solution: I carefully mapped the directory structure to match the package declarations and practiced with simpler examples first.
+
+- Challenge: Calculating profit correctly while handling mixed units (lari and tetri).
+  Solution: I standardized all values to tetri before calculations and added comments to document conversions.
+
+- Challenge: Implementing encapsulation with private variables while still allowing necessary access.
+  Solution: I used getter methods to maintain proper OOP principles while providing controlled access.
+
+2. AI Tools Utility:
+AI tools were extremely helpful for:
+- Clarifying Java syntax for package declarations and imports
+- Providing instant feedback on proper directory structures
+- Explaining currency unit conversion best practices
+- Generating example code snippets for reference
+- Debugging through step-by-step analysis of my errors
+
+The AI served as an interactive learning aid, but I made sure to understand each concept it explained rather than just copying solutions. 
+This helped me internalize the Java constructs that were new to me, particularly regarding package organization and financial calculations in OOP.
